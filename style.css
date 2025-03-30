@@ -1,0 +1,13 @@
+/* 추가적인 커스터마이징을 원할 경우 사용할 수 있습니다 */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border: 1px solid #e0e0e0;
+}
+
+.card h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
